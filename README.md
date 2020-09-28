@@ -10,7 +10,13 @@ This website will contain Dina's reading notes from the Code Fellows 201 course 
     - HTML Chapter 18: “Process & Design” (pp.452-475) 
   - From the Duckett JS Book
     - Chapter 1: “The ABC of Programming” (pp.11-52)
-* [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](#)
+* [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](class-02.md)
+  - From the Duckett HTML Book
+    - Chapter 2: "Text" (pp. 40-61)
+    - Chapter 10: "Introducing CSS" (pp.226-245)
+  - From the Duckett JS Book
+    - Chapter 2: “Basic Javascript Instructions" (pp. 53-84)
+    - Chapter 4: “Decisions and Loops” ***only up to the section on switch statements*** (pp.145-162)
 * [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](#)
 * [Read: 04 - HTML Links, CSS Layout, JS Functions](#)
 * [Read: 05 - HTML Images; CSS Color & Text](#)

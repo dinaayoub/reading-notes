@@ -1,4 +1,5 @@
-*From the Duckett HTML book:
+# Read: 01 - Introductory HTML and JavaScript
+* From the Duckett HTML book:
   - Introduction (pp.2-11)
   - HTML Chapter 1: “Structure” (pp.12-39)
   - HTML Chapter 8: “Extra Markup” (p.176-199)

@@ -1,8 +1,15 @@
 # Code 201 Reading Notes
-This website will contain Dina's reading notes from the Code Fellows 201 course. 
+This website will contain Dina's reading notes from the Code Fellows 201 course :octocat:. 
 
 ## Table of Contents
 * [Read: 01 - Introductory HTML and JavaScript](class-01.md)
+  - From the Duckett HTML Book
+    - Introduction (pp.2-11) HTML Chapter 1: “Structure” (pp.12-39) 
+    - HTML Chapter 8: “Extra Markup” (p.176-199)
+    - HTML Chapter 17: “HTML5 Layout” (pp.428-451)
+    - HTML Chapter 18: “Process & Design” (pp.452-475) 
+  - From the Duckett JS Book
+    - Chapter 1: “The ABC of Programming” (pp.11-52)
 * [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](#)
 * [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](#)
 * [Read: 04 - HTML Links, CSS Layout, JS Functions](#)

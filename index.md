@@ -17,7 +17,7 @@ This website will contain Dina's reading notes from the Code Fellows 201 course 
   - From the Duckett JS Book
     - Chapter 2: “Basic Javascript Instructions" (pp. 53-84)
     - Chapter 4: “Decisions and Loops” ***only up to the section on switch statements*** (pp.145-162)
-* [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](#)
+* [Read: 03 - HTML Lists, CSS Boxes, JS Control Flow](class-03.md)
 * [Read: 04 - HTML Links, CSS Layout, JS Functions](#)
 * [Read: 05 - HTML Images; CSS Color & Text](#)
 * [Read: 06 - JS Object Literals; The DOM](#)

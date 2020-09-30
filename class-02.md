@@ -2,7 +2,7 @@
 * From the Duckett HTML Book
   - Chapter 2: "Text" (pp. 40-61)
   Learned some tags to manipulate text on a web page. 
-  Headers: <h1> through <h6> headers
+  Headers: \<h1> through <h6> headers
   Paragraph: <p> 
   Bold: <b> though unclear how this is different from <strong>
   Italics: <i> though unclear how this is different from <em>

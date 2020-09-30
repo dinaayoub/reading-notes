@@ -22,6 +22,26 @@
     - Strikethrough: \<s>
   
   - Chapter 10: "Introducing CSS" (pp.226-245)
+    - Imagine an invisible box around each HTML element
+    - External CSS is a linked file in the Head tag with href type ref
+    - Internal CSS using style tag
+    - CSS selectors: type selector e.g. H1{}, class selector e.g. .note{}, id selector e.g. #intro{},  child selector e.g. li>a{}, descendant selector e.g. ul li{}, adjacent sibling selector e.g. h1+p{}, general sibling selector e.g. h1~p{}
+    - CSS cascading rules: last rule, specificity, !important
+
 * From the Duckett JS Book
   - Chapter 2: “Basic Javascript Instructions" (pp. 53-84)
+    - Case sensitive statements, statements end with ;
+    - Comments: /* */ and //
+    - Data types: numeric, string, Boolean
+    - Rules for naming variables: 
+      .	Can’t start with a number. Must start with letter, $, or _
+      .	Must not use – or .
+      .	Can’t use keyword or reserved words
+      .	Case sensitive
+      .	Descriptive
+      .	Camel case
+
   - Chapter 4: “Decisions and Loops” ***only up to the section on switch statements*** (pp.145-162)
+    - Comparison operators: == != === !== >< >= <=
+    - Logical operators && || !
+

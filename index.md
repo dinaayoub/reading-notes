@@ -32,7 +32,11 @@ Note: This layout chapter is BIG. Focus your attention on understanding the core
   - From the Duckett JS book:
     - Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
     - [Article: “6 Reasons for Pair Programming”](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)
-* [Read: 05 - HTML Images; CSS Color & Text](#)
+* [Read: 05 - HTML Images; CSS Color & Text](class-05.md)
+  - From the Duckett HTML book:
+    - Chapter 5: “Images” (pp.94-125)
+    - Chapter 11: “Color” (pp.246-263)
+    - Chapter 12: “Text” (pp.264-299)
 * [Read: 06 - JS Object Literals; The DOM](#)
 * [Read: 07 - HTML Tables; JS Constructor Functions](#)
 * [Read: 08 - More CSS Layout](#)

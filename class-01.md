@@ -24,8 +24,23 @@
       - expires (sets cache expiration)
     - Escape characters and special codes for symbols
   - HTML Chapter 17: “HTML5 Layout” (pp.428-451)
+    - html 5 introduced new tags:
+      - header and footer
+      - nav for the main menu nav of the page
+      - article and aside
+      - section 
+      - hgroup to group up a heading and a sub heading
+      - figure and figcaption 
   - HTML Chapter 18: “Process & Design” (pp.452-475)
+    - identify target audience, their motivations, specific goals, what information they'll need
+    - build a sitemap
+    - perceiving grouping and similarity can be due to: proximity, closure, continuance, white space, background color, or borders
+    - consistency matters & use headings
+    - Designing navigation: concise, clear, selective
+    - For nav: show the context (where you are), make it interactive (on hover), and consistent (don't change the main menu across pages)
 
 * From the Duckett JS book:
   - Introduction
+    - intro to what js is used for. Familiar with this already. 
   - JS Chapter 1: “The ABC of Programming” (pp.11-52)
+    - basic intro to objects, methods... etc. All things i'm familiar with already. 

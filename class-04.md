@@ -23,4 +23,6 @@ Note: This layout chapter is BIG. Focus your attention on understanding the core
 
   - From the Duckett JS book:
     - Chapter 3 (first part): “Functions, Methods, and Objects” (pp.86-99 ONLY)
+      - anonymous functions are when you set a variable to function(blah) then you can use that variable name to run that function (?)
+      - IIFE - i didn't really understand this. It seems like an abbreviation thing by adding outer parentheses and running the function by adding () at the end of the function. 
     - [Article: “6 Reasons for Pair Programming”](https://www.codefellows.org/blog/6-reasons-for-pair-programming/)

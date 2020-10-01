@@ -37,37 +37,37 @@ Note: This layout chapter is BIG. Focus your attention on understanding the core
     - Chapter 5: “Images” (pp.94-125)
     - Chapter 11: “Color” (pp.246-263)
     - Chapter 12: “Text” (pp.264-299)
-* [Read: 06 - JS Object Literals; The DOM](#)
+* [Read: 06 - JS Object Literals; The DOM](class-06.md)
   - [Understanding the problem domain is the hardest part of programming](https://simpleprogrammer.com/understanding-the-problem-domain-is-the-hardest-part-of-programming)
   - From the Duckett JS book
     - Chapter 3: “Object Literals” (pp.100-105)
     - Chapter 5: “Document Object Model” (pp.183-242)
-* [Read: 07 - HTML Tables; JS Constructor Functions](#)
+* [Read: 07 - HTML Tables; JS Constructor Functions](class-07.md)
   - [Domain Modeling](https://github.com/codefellows/domain_modeling#domain-modeling)
   - From the Duckett HTML book:
     - Chapter 6: “Tables” (pp.126-145)
   - From the Duckett JS Book:
     - Chapter 3: “Functions, Methods, and Objects” (pp.106-144)
-* [Read: 08 - More CSS Layout](#)
+* [Read: 08 - More CSS Layout](class-08.md)
   - From the Duckett HTML book:
     - HTML/CSS book, Ch. 15, “Layout” (again; repeat of Class 4 reading)
-* [Read: 09 - Forms and Events](#)
+* [Read: 09 - Forms and Events](class-09.md)
   - From the Duckett HTML book:
     - Chapter 7: “Forms” (p.144-175)
     - Chapter 14: “Lists, Tables & Forms” (pp.330-357)
   - From the Duckett JS book:
     - Chapter 6: “Events” (pp.243-292)
-* [Read: 10 - JS Debugging](#)
+* [Read: 10 - JS Debugging](class-10.md)
   - From the Duckett JS book:
     - JavaScript book, Ch. 10, “Error Handling & Debugging”
-* [Read: 11 - Assorted Topics](#)
+* [Read: 11 - Assorted Topics](class-11.md)
   - From the Duckett HTML book:
     - Chapter 16: “Images” (pp.406-427)
     - Chapter 19: “Practical Information” (476-492)
     - [This MDN article on audio and video elements](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
   - Additional Resources. Bookmark/Skim
     - Chapter 9: pages 201-206 only. Flash is no longer supported by many browsers but is an important part of history.
-* [Read: 12 - Docs for the HTML <canvas> Element & Chart.js](#)
+* [Read: 12 - Docs for the HTML <canvas> Element & Chart.js](class-12.md)
   - Assorted bits of documentation:
     - [Read this article on the Chart.js API.](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
     - [Chart.js docs: You’ll be needing these!](https://www.chartjs.org/docs/latest/)
@@ -76,9 +76,9 @@ Note: This layout chapter is BIG. Focus your attention on understanding the core
     - [Drawing shapes with canvas](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_shapes)
     - [Applying styles and colors](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Applying_styles_and_colors)
     - [Drawing text](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API/Tutorial/Drawing_text)
-* [Read: 13 - Local Storage](#)
+* [Read: 13 - Local Storage](class-13.md)
   - [“The Past, Present, and Future of Local Storage for Web Applications”](http://diveinto.html5doctor.com/storage.html)
-* [Read: 14a - CSS Transforms, Transitions, and Animations](#)
+* [Read: 14a - CSS Transforms, Transitions, and Animations](class-14.md)
   - The following reading is required for psychological safety talk:
     - [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
   - Read the following articles and/or review the following examples on CSS animations:

@@ -17,3 +17,8 @@
         - lightness is a percentage 0-1 with 50% being the color, and 0 being white, and 1 being black 
         - alpha is to express transparency, with 0.5% being 50% transparency, so 0% is not transparent at all. 
   - Chapter 12: “Text” (pp.264-299)
+    - Typeface (serif, sans-serif, monospace, cursive, fantasy)
+    - Weight (light, medium , bold, black) 
+    - Style (Normal, italic, oblique - which is like italic but without any cursive element. just slanted normal font) 
+    - Stretch (condensed, regular, extended - thinner letters closer together or thicker and farther apart) 
+    - 

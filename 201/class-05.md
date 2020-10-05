@@ -1,24 +1,23 @@
 # Read: 05 - HTML Images; CSS Color & Text
 
-- From the Duckett HTML book:
-  - Chapter 5: “Images” (pp.94-125)
-    - using img src, alt, title, height, width
-    - align has been removed in html5 and you should use css instead. can use float. 
-    - consider using figure and figcaption
-  - Chapter 11: “Color” (pp.246-263)
-    - can be in rgb, hex codes, or standard color names
-    - foreground = color
-    - background = background-color
-    - CCS3:
-      - opacity 0-1 value with 1 being completely opaque
-      - HSL: hue saturation lightness alpha. 
-        - hue is expressed as an angle between 0 and 360
-        - saturation is a percentage 0-1
-        - lightness is a percentage 0-1 with 50% being the color, and 0 being white, and 1 being black 
-        - alpha is to express transparency, with 0.5% being 50% transparency, so 0% is not transparent at all. 
-  - Chapter 12: “Text” (pp.264-299)
-    - Typeface (serif, sans-serif, monospace, cursive, fantasy)
-    - Weight (light, medium , bold, black) 
-    - Style (Normal, italic, oblique - which is like italic but without any cursive element. just slanted normal font) 
-    - Stretch (condensed, regular, extended - thinner letters closer together or thicker and farther apart) 
-    - 
+* From the Duckett HTML book:
+  * Chapter 5: “Images” (pp.94-125)
+    * using img src, alt, title, height, width
+    * align has been removed in html5 and you should use css instead. can use float. 
+    * consider using figure and figcaption
+  * Chapter 11: “Color” (pp.246-263)
+    * can be in rgb, hex codes, or standard color names
+    * foreground = color
+    * background = background-color
+    * CCS3:
+      * opacity 0-1 value with 1 being completely opaque
+      * HSL: hue saturation lightness alpha. 
+        * hue is expressed as an angle between 0 and 360
+        * saturation is a percentage 0-1
+        * lightness is a percentage 0-1 with 50% being the color, and 0 being white, and 1 being black
+        * alpha is to express transparency, with 0.5% being 50% transparency, so 0% is not transparent at all.
+  * Chapter 12: “Text” (pp.264-299)
+    * Typeface (serif, sans-serif, monospace, cursive, fantasy)
+    * Weight (light, medium , bold, black)
+    * Style (Normal, italic, oblique * which is like italic but without any cursive element. just slanted normal font)
+    * Stretch (condensed, regular, extended * thinner letters closer together or thicker and farther apart)

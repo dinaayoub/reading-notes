@@ -3,17 +3,18 @@ This website will contain Dina's reading notes from the Code Fellows 301 course 
 
 ## Table of Contents
 * [Read: 01 - SMACSS and Responsive Web Design](301/class-01.md)
+* [# Read: 02 - jQuery, Events, and The DOM](301/class02.md)
 
 # Code 201 Reading Notes
-This website will contain Dina's reading notes from the Code Fellows 201 course :octocat:. 
+This website will contain Dina's reading notes from the Code Fellows 201 course :octocat:.
 
 ## Table of Contents
 * [Read: 01 - Introductory HTML and JavaScript](201/class-01.md)
   * From the Duckett HTML Book
-    * Introduction (pp.2-11) HTML Chapter 1: “Structure” (pp.12-39) 
+    * Introduction (pp.2-11) HTML Chapter 1: “Structure” (pp.12-39)
     * HTML Chapter 8: “Extra Markup” (p.176-199)
     * HTML Chapter 17: “HTML5 Layout” (pp.428-451)
-    * HTML Chapter 18: “Process & Design” (pp.452-475) 
+    * HTML Chapter 18: “Process & Design” (pp.452-475)
   * From the Duckett JS Book
     * Chapter 1: “The ABC of Programming” (pp.11-52)
 * [Read: 02 - HTML Text, CSS Introduction, and Basic JavaScript Instructions](201/class-02.md)

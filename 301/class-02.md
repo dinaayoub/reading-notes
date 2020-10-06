@@ -30,4 +30,8 @@
 Bookmark/Skim
 
 * JavaScript and jQuery book by Jon Duckett pages 332-335
+  * this introduces some cool effects you can use, such as fadeIn and fadeOut... etc
+  * a bit of info about using .animate to animate css properties that you want to change
 * JavaScript and jQuery book by Jon Duckett pages 302-305
+  * shows some selectors for finding elements. covered by the jquery sololearn class as well.
+  * has a nice list of functions to reference.

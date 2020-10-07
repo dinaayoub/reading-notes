@@ -4,6 +4,8 @@ This website will contain Dina's reading notes from the Code Fellows 301 course 
 ## Table of Contents
 * [Read: 01 - SMACSS and Responsive Web Design](301/class-01.md)
 * [Read: 02 - jQuery, Events, and The DOM](301/class-02.md)
+* [Read: 03 - Flexbox and Templating](301/class-03.md)
+* [Read: 04 - Responsive Web Design and Regular Expressions](301/class-04.md)
 
 # Code 201 Reading Notes
 This website will contain Dina's reading notes from the Code Fellows 201 course :octocat:.

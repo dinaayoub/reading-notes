@@ -15,7 +15,8 @@ A few of the key concepts:
 * align-items: stretch | flex-start | flex-end | center | baseline | first baseline | last baseline | start | end | self-start | self-end + ... safe | unsafe;
 
 [Flexbox Froggy](https://flexboxfroggy.com/)
-I have not been able to complete this yet as it doesn't work well on mobile *can't "hover" and long clicks or clicks didn't work.
+~~I have not been able to complete this yet as it doesn't work well on mobile *can't "hover" and long clicks or clicks didn't work.~~
+Finished this game, though i had trouble with the last question because i didn't realize i could wrap-reverse!
 
 ## Bookmark/Skim
 

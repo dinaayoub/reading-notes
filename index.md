@@ -1,18 +1,23 @@
 # Code 301 Reading Notes
+
 This website will contain Dina's reading notes from the Code Fellows 301 course :octocat:.
 
 ## Table of Contents
+
 * [Read: 01 - SMACSS and Responsive Web Design](301/class-01.md)
 * [Read: 02 - jQuery, Events, and The DOM](301/class-02.md)
 * [Read: 03 - Flexbox and Templating](301/class-03.md)
 * [Read: 04 - Responsive Web Design and Regular Expressions](301/class-04.md)
 * [Read: 05 - Heroku Deployment](301/class-05.md)
 * [Read: 06 - Node, Express, and APIs](301/class-06.md)
+* [Read: 07 - APIs continued](301/class-07.md)
 
-# Code 201 Reading Notes
+## Code 201 Reading Notes
+
 This website will contain Dina's reading notes from the Code Fellows 201 course :octocat:.
 
-## Table of Contents
+### ToC
+
 * [Read: 01 - Introductory HTML and JavaScript](201/class-01.md)
   * From the Duckett HTML Book
     * Introduction (pp.2-11) HTML Chapter 1: “Structure” (pp.12-39)
@@ -78,7 +83,7 @@ Note: This layout chapter is BIG. Focus your attention on understanding the core
     * [This MDN article on audio and video elements](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Video_and_audio_APIs)
   * Additional Resources. Bookmark/Skim
     * Chapter 9: pages 201-206 only. Flash is no longer supported by many browsers but is an important part of history.
-* [Read: 12 - Docs for the HTML <canvas> Element & Chart.js](201/class-12.md)
+* [Read: 12 - Docs for the HTML \<canvas> Element & Chart.js](201/class-12.md)
   * Assorted bits of documentation:
     * [Read this article on the Chart.js API.](https://www.webdesignerdepot.com/2013/11/easily-create-stunning-animated-charts-with-chart-js/)
     * [Chart.js docs: You’ll be needing these!](https://www.chartjs.org/docs/latest/)

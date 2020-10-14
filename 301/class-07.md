@@ -1,13 +1,13 @@
 # Read: 07 - APIs continued
 
 * [What Google Learned From Its Quest to Build the Perfect Team](https://www.nytimes.com/2016/02/28/magazine/what-google-learned-from-its-quest-to-build-the-perfect-team.html)
-Psychological safety is the biggest factor in team success, even more so than having clear goals and impact. If people feel safe to say something stupid and are observant and respectful of each other's feelings, then the team's overall IQ becomes greater than the sum of its parts. This is really interesting! The psychological safety also includes each team member having roughly equal time talking because everyone feels safe to express their thoughts, crazy ideas... etc. 
+Psychological safety is the biggest factor in team success, even more so than having clear goals and impact. If people feel safe to say something stupid and are observant and respectful of each other's feelings, then the team's overall IQ becomes greater than the sum of its parts. This is really interesting! The psychological safety also includes each team member having roughly equal time talking because everyone feels safe to express their thoughts, crazy ideas... etc.
 
 * [How I explained REST to my brother](https://gist.github.com/brookr/5977550)
 Some points I gathered:
-  * The url is the noun and the action to take is the verb, such as get, put, delete.. etc. 
-  * the reason the url is the noun is because it's the only standard thing across all types of resources. 
-  * I still don't really understand what rest is. I feel like this was confusing. Especially the part of needing to be able to take to all machines about all other machines. 
+  * The url is the noun and the action to take is the verb, such as get, put, delete.. etc.
+  * the reason the url is the noun is because it's the only standard thing across all types of resources.
+  * I still don't really understand what rest is. I feel like this was confusing. Especially the part of needing to be able to take to all machines about all other machines.
 
 * Bookmark/Skim
   * [Documentation for SuperAgent](https://visionmedia.github.io/superagent/)

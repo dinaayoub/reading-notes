@@ -12,6 +12,7 @@ This website will contain Dina's reading notes from the Code Fellows 301 course 
 * [Read: 06 - Node, Express, and APIs](301/class-06.md)
 * [Read: 07 - APIs continued](301/class-07.md)
 * [Read: 08 - SQL](301/class-08.md)
+* [Read: 09 - Refactoring](301/class-09.md)
 
 ## Code 201 Reading Notes
 

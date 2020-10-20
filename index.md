@@ -15,6 +15,7 @@ This website will contain Dina's reading notes from the Code Fellows 301 course 
 * [Read: 09 - Refactoring](301/class-09.md)
 * [Read: 10 - The Call Stack and Debugging](301/class-10.md)
 * [Read: 11 - EJS](301/class-11.md)
+* [Read: 12 - Components](301/class-12.md)
 
 ## Code 201 Reading Notes
 

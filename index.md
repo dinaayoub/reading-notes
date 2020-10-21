@@ -17,6 +17,7 @@ This website will contain Dina's reading notes from the Code Fellows 301 course 
 * [Read: 11 - EJS](301/class-11.md)
 * [Read: 12 - Components](301/class-12.md)
 * [Read: 13 - Update/Delete](301/class-13.md)
+* [Read: 14a - DB Normalization](301/class-14.md)
 
 ## Code 201 Reading Notes
 

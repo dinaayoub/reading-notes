@@ -51,4 +51,13 @@
     * Stop when asking why does not produce any more useful responses
     * Address the root cause
     * Monitor your measures
-    * Example: ![Example](https://www.mindtools.com/media/Diagrams/5_Whys_Figure_1_Single_Lane.jpg)
+    * ![Example](https://www.mindtools.com/media/Diagrams/5_Whys_Figure_1_Single_Lane.jpg)
+
+## Videos
+
+* [What the heck is the event loop anyway](https://www.youtube.com/watch?v=8aGhZQkoFbQ&ab_channel=JSConf)
+  * Asynchronous calls push the function onto the event loop's task queue.
+  * The event loop pushes stuff onto the stack whenever the stack is clear, removing it from its task queue. This means that things like "set timeout 1000" isn't guaranteed to run after a second. It will run after *at least* one second when the call stack becomes empty.
+  * He created a tool called loupe to visualize this.
+* [The Super Mario Effect](https://www.youtube.com/watch?v=9vJRopau0g0&ab_channel=TEDxTalks)
+  * Reframing our mind instead of being embarassed about failure, focusing on the end goal and keep going till you get there, like you would in a video game.

@@ -1,8 +1,10 @@
-# Code 401 - Advanced Javascript Reading Notes
+# Reading Notes
 
-This website will contain Dina's reading notes from the Code Fellows 401 course Advanced Fullstack Javascript :octocat:.
+This website will contain Dina's reading notes from the Code Fellows courses
 
-## Table of Contents
+## Code 401 Reading Notes
+
+### Table of Contents
 
 * [Pre-work](401/pre-work.md)
 * [Read 01 - Node Ecosystem, TDD, CI/CD](401/class-01.md)
@@ -29,9 +31,7 @@ This website will contain Dina's reading notes from the Code Fellows 401 course 
 
 ## Code 201 Reading Notes
 
-This website will contain Dina's reading notes from the Code Fellows 201 course :octocat:.
-
-### ToC
+### Table of Contents
 
 * [Read: 01 - Introductory HTML and JavaScript](201/class-01.md)
   * From the Duckett HTML Book

@@ -69,3 +69,6 @@ References:
 ## Are all callback functions considered to be Asynchronous? Why or why not?
 
 No, taking a callback doesn't mean a function has to be asyncrhonous. if that were the case, then functions like array.forEach or .map() or .reduce() ... etc would not work because it would just move on before any of the work happens, and leave you with a 0 result. It's only asynchronous callback if the function performs an asynchonous operation, such as superagent.get().
+
+Reference:
+[Does taking a callback make a function asynchronous?](https://bytearcher.com/articles/does-taking-a-callback-make-a-function-asynchronous/#:~:text=Simply%20taking%20a%20callback%20doesn,argument%20but%20are%20not%20asynchronous.&text=It%20iterates%20over%20each%20item%20and%20calls%20the%20function%20once%20per%20item.)

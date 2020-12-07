@@ -12,7 +12,7 @@ Array.reduce runs the function you give it on each element of the array to creat
 array.reduce((accumulator,currentValue) => {
     return accumulator * currentValue;
 },1);
-the ,1 at the end specifies what value of accumulator we want to start with.
+the ,1 at the end specifies what value of accumulator we want to start with (and is optional).
 
 Source: [MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
 

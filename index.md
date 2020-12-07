@@ -5,10 +5,9 @@ This website will contain Dina's reading notes from the Code Fellows 401 course 
 ## Table of Contents
 
 * [Pre-work](401/pre-work.md)
+* [Read 01 - Node Ecosystem, TDD, CI/CD](401/class-01.md)
 
 ## Code 301 Reading Notes
-
-This website will contain Dina's reading notes from the Code Fellows 301 course :octocat:.
 
 ### TOC
 

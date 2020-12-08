@@ -48,11 +48,11 @@
 
 ## Questions
 
-1- What’s the difference between PUT and PATCH?
-2- Provide links to 3 services or tools that allow you to “mock” an API for development like json-server
-3- Compare and contrast Swagger and APIDoc.js
-4- Which HTTP status codes should be sent with each type of (un)successful API call?
-5- Compare and contrast SOAP and ReST
+1. What’s the difference between PUT and PATCH?
+2. Provide links to 3 services or tools that allow you to “mock” an API for development like json-server
+3. Compare and contrast Swagger and APIDoc.js
+4. Which HTTP status codes should be sent with each type of (un)successful API call?
+5. Compare and contrast SOAP and ReST
 
 ## Document the following Vocabulary Terms
 
@@ -64,13 +64,13 @@
 ## Preview
 
 * Which 3 things had you heard about previously and now have better clarity on?
-  1- What express is. I knew it was a library for node.js but i didn't know it is also a "node web framework"
-  2- heard of test driven development before
-  3- how to create your own npm package to share with the world
+  1. What express is. I knew it was a library for node.js but i didn't know it is also a "node web framework"
+  2. heard of test driven development before
+  3. how to create your own npm package to share with the world
 * Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
-  1- how to write unit tests
-  2- the answer to the questions i have about intermediate and advanced TDD skills
-  3- The answers to the questions section about put and patch... etc as that wasn't in the readings. I will update my entry here with answers later.
+  1. how to write unit tests
+  2. the answer to the questions i have about intermediate and advanced TDD skills
+  3. The answers to the questions section about put and patch... etc as that wasn't in the readings. I will update my entry here with answers later.
 * What are you most excited about trying to implement or see how it works?
-  1- unit tests!
-  2- using SOAP
+  1. unit tests!
+  2. using SOAP

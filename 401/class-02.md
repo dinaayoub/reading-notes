@@ -32,8 +32,8 @@
     * able to test drive a variety of design paradigms (object oriented, functional, event-driven) ----> I don't understand this one.
     * able to test drive a variety of technical domains: computation, user interfaces, persistent data access ---> not sure I get this one either.
 
-* [CI/CD](https://www.youtube.com/watch?v=xSv_m3KhUO8&ab_channel=GitHubTraining%26Guides)
-* CI is a strategy to ensure everyone's changes integrate, catch bugs, and reduce merge conflicts. Goes with automated testing, so every time code is added, the tests will automatically run.A CI server can make sure changes work and communicate those changes to webhooks and APIs.
+* [Continuous Integration / Continuous Delivery & Continuous Deployment CI/CD](https://www.youtube.com/watch?v=xSv_m3KhUO8&ab_channel=GitHubTraining%26Guides)
+* CI is a strategy to ensure everyone's changes integrate, catch bugs, and reduce merge conflicts. Goes with automated testing, so every time code is added, the tests will automatically run. A CI server can make sure changes work and communicate those changes to webhooks and APIs.
 * Continuous Delivery vs Continuous deployment
   * Delivery: develop code that you could release at any time. Coupled with CI, lets you develop code in more manageable increments.
   * Deployment: extension of CD. allows you to deploy newly developed features into production immediately with confidence (they've all run through CI)
@@ -49,10 +49,34 @@
 ## Questions
 
 1. What’s the difference between PUT and PATCH?
+PUT updates the entire resource, and PATCH can update parts of it (provides instructions to modify the resource)
+[src1](https://rapidapi.com/blog/put-vs-patch/) [src2](https://en.wikipedia.org/wiki/Patch_verb#:~:text=The%20main%20difference%20between%20the,instructions%20to%20modify%20the%20resource.)
 2. Provide links to 3 services or tools that allow you to “mock” an API for development like json-server
+Jest which we use for testing, Mirage js and Cypress
+[src](https://www.valentinog.com/blog/fake/)
 3. Compare and contrast Swagger and APIDoc.js
+Swagger allows you to describe your api's structure in a way that machines can read them, building an interactive api documentation [src](https://swagger.io/docs/specification/2-0/what-is-swagger/)
+APIDoc creates a documentation from API annotations in the source code. [src](https://apidocjs.com/)
+For apidocs.js we have to modify documentation for each affected method/endpoint when we make code changes.
+swagger uses plain json which is easy to read for 3rd party apps or services.
+[src](https://www.asptricks.net/2019/04/apidoc-vs-swagger-for-node-app.html)
 4. Which HTTP status codes should be sent with each type of (un)successful API call?
-5. Compare and contrast SOAP and ReST
+200 - success
+400 - bad request
+403 - forbidden
+404 - resource not found
+500 - internal server error
+[src](https://restfulapi.net/http-status-codes/)
+5. Compare and contrast SOAP and REST
+SOAP is more rigid than rest but gives us better standardization. REST is more flexible.
+SOAP is language, platform and transport independent while REST requires http.
+SOAP works well in distributed enterprise environments whereas REST assumes direct point-to-point communication.
+SOAP is standardized, has built-in error handling and some automation with certain languages.
+REST is easier to use, easier to learn, more flexible, and doesn't require an expensive tool to interact with the web service.
+REST is more efficient as it doesn't always use XML for smaller message formats.
+REST is fast as it doesn't require extensive processing.
+REST is more consistent with other web technologies in design philosophy.
+[src](https://smartbear.com/blog/test-and-monitor/soap-vs-rest-whats-the-difference/)
 
 ## Document the following Vocabulary Terms
 

@@ -10,6 +10,8 @@ This website will contain Dina's reading notes from the Code Fellows courses
 * [Read 01 - Node Ecosystem, TDD, CI/CD](401/class-01.md)
 * [Read 02 - Express](401/class-02.md)
 * [Read 03 - Express REST API](401/class-03.md)
+* [Read 04 - Data Modeling](401/class-04.md)
+* [Read 05 - Linked List](401/class-05.md)
 
 ## Code 301 Reading Notes
 

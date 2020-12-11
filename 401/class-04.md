@@ -3,9 +3,9 @@
 ## Questions
 
 1. Name 3 advantages to Test Driven Development
-  1. fewer bugs in the later stages of development so it saves you time
-  2. easier maintenance of the code
-  3. allows you to deploy more regularly confidently if you've got good coverage.
+    1. fewer bugs in the later stages of development so it saves you time
+    2. easier maintenance of the code
+    3. allows you to deploy more regularly confidently if you've got good coverage.
 2. In what case would you need to use beforeEach() or afterEach() in a test suite?
 when using console spy to do a mock implementation
 3. What is one downside of Test Driven Development
@@ -31,13 +31,13 @@ good question. based on class today it's not very clear yet, but seems to be bec
 ## Preview
 
 1. Which 3 things had you heard about previously and now have better clarity on?
-  1. what nosql means.
-  2. how to use mongodb.
-  3. what mongoose is and how it helps us.
+    1. what nosql means.
+    2. how to use mongodb.
+    3. what mongoose is and how it helps us.
 2. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
-  1. more examples of mongodb usefulness
+    1. more examples of mongodb usefulness
 3. What are you most excited about trying to implement or see how it works?
-  1. excited to get my first mongodb up and running in the cloud, and not just locally!
+    1. excited to get my first mongodb up and running in the cloud, and not just locally!
 
 ## Preparation Materials
 

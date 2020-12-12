@@ -12,6 +12,7 @@ This website will contain Dina's reading notes from the Code Fellows courses
 * [Read 03 - Express REST API](401/class-03.md)
 * [Read 04 - Data Modeling](401/class-04.md)
 * [Read 05 - Linked List](401/class-05.md)
+* [Read 06 - Authentication](401/class-06.md)
 
 ## Code 301 Reading Notes
 

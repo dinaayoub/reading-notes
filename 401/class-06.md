@@ -44,10 +44,10 @@
 
 * [Basic Auth](https://en.wikipedia.org/wiki/Basic_access_authentication)
   * simplest technique for access control
-  * no cookies, session identifiers or login pages. 
-  * uses http header Authorization: Basic <credentials> 
+  * no cookies, session identifiers or login pages.
+  * uses http header Authorization: Basic \<credentials>
   * credentials is encoding of username:password. For example, if the browser uses Aladdin as the username and OpenSesame as the password, then the field's value is the Base64 encoding of Aladdin:OpenSesame, or QWxhZGRpbjpPcGVuU2VzYW1l. Then the Authorization header will appear as: Authorization: Basic QWxhZGRpbjpPcGVuU2VzYW1l
   * Does not have hashing or encryption so should only be used over https.
-  
+
 * [OWASP auth cheatsheet](https://www.owasp.org/index.php/Authentication_Cheat_Sheet)
 * [bcrypt docs](https://www.npmjs.com/package/bcrypt)

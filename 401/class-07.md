@@ -4,12 +4,12 @@
 
 1. Write the following steps in the correct order:
   1. Register your application to get a client_id and client_secret
-  2. Receive access token
-  3. Ask the client if they want to sign in via a third party
+  2. Ask the client if they want to sign in via a third party
   3. Redirect to a third party authentication endpoint
-  6. Receive authorization code
-  4. Make a request to a third-party API endpoint
+  6. Make a request to a third-party API endpoint
+  7. Receive authorization code
   7. Make a request to the access token endpoint
+  4. Receive access token
 2. What can you do with an authorization code?
 exchange it for an access token [src](https://www.oauth.com/oauth2-servers/server-side-apps/authorization-code/#:~:text=The%20authorization%20code%20is%20a,approve%20or%20deny%20the%20request.)
 3. What can you do with an access token?

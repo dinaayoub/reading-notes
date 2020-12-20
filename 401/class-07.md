@@ -1,4 +1,4 @@
-# Read: Class 06 - Bearer Authorization
+# Read: Class 07 - Bearer Authorization
 
 ## Review, Research, and Discussion
 

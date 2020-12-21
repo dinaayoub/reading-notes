@@ -3,7 +3,7 @@
 * From the Duckett HTML book:
   * Chapter 5: “Images” (pp.94-125)
     * using img src, alt, title, height, width
-    * align has been removed in html5 and you should use css instead. can use float. 
+    * align has been removed in html5 and you should use css instead. can use float.
     * consider using figure and figcaption
   * Chapter 11: “Color” (pp.246-263)
     * can be in rgb, hex codes, or standard color names
@@ -11,7 +11,7 @@
     * background = background-color
     * CCS3:
       * opacity 0-1 value with 1 being completely opaque
-      * HSL: hue saturation lightness alpha. 
+      * HSL: hue saturation lightness alpha.
         * hue is expressed as an angle between 0 and 360
         * saturation is a percentage 0-1
         * lightness is a percentage 0-1 with 50% being the color, and 0 being white, and 1 being black

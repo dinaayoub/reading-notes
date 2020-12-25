@@ -13,11 +13,14 @@ This website will contain Dina's reading notes from the Code Fellows courses
 * [Read 04 - Data Modeling](401/class-04.md)
 * [Read 05 - Linked List](401/class-05.md)
 * [Read 06 - Authentication](401/class-06.md)
-* [# Read: Class 07 - Bearer Authorization](401/class-07.md)
-* [# Read: Class 08 - Access Control (ACL)](401/class-08.md)
+* [Read: Class 07 - Bearer Authorization](401/class-07.md)
+* [Read: Class 08 - Access Control (ACL)](401/class-08.md)
 * [Read - Class 10: Stacks & Queues](401/class-10.md)
 * [Read: Class 11 - Event Driven Applications](401/class-11.md)
 * [Read: Class 12 - Socket.io](401/class-12.md)
+* [Read: Class 13 - Message Queues](401/class-13.md)
+* [Read: Class 14 - Event Driven Architecture](401/class-14.md)
+* [Read: Trees](401/class-15).md
 
 ## Code 301 Reading Notes
 

@@ -2,10 +2,15 @@
 
 ## Review, Research, and Discussion
 
-1. What’s the difference between a FIFO and a standard queue? There's no difference.
-2. How can the server be assured a message was properly received? By getting an acknowledgement from the client that the server would listen for.
+1. What’s the difference between a FIFO and a standard queue?
+There's no difference.
+2. How can the server be assured a message was properly received?
+By getting an acknowledgement from the client that the server would listen for.
 3. What classic design pattern is best represented by event driven programming?
+I'm not sure? [Singleton](https://refactoring.guru/design-patterns/singleton), maybe?
 4. How do you test an event driven system?
+Automation: by testing all the functions
+Manual: by emitting the events
 
 ## Vocabulary Terms
 
@@ -15,8 +20,11 @@
 ## Preview
 
 1. Which 3 things had you heard about previously and now have better clarity on?
+Acknowledgements
 2. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
+How authentication and security would work with our caps system.
 3. What are you most excited about trying to implement or see how it works?
+wish we could build a real life application with this!
 
 ## Preparation Materials
 

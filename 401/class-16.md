@@ -15,14 +15,18 @@
 
 ## Preview
 
-1. Which 3 things had you heard about previously and now have better clarity on?
+1. Which 3 things had you heard about previously and now have better clarity on? How to use the aws console... it's still very overwhelming though.
 2. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 3. What are you most excited about trying to implement or see how it works?
 
 ## Preparation Materials
 
-[Virtual Machines (Bookmark This)](https://www.youtube.com/watch?v=yIVXjl4SwVo&ab_channel=VictorDozal)
-[VMS and the Cloud (Bookmark This)](https://www.youtube.com/watch?v=l0DfHUWMjsU&ab_channel=DavidBecker)
-[AWS EC2](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc)
-[EC2 For Humans](https://www.youtube.com/watch?v=lZMkgOMYYIg&ab_channel=Academind)
-[Elastic Beanstalk](https://www.youtube.com/watch?v=SrwxAScdyT0&ab_channel=AmazonWebServices)
+* [Virtual Machines (Bookmark This)](https://www.youtube.com/watch?v=yIVXjl4SwVo&ab_channel=VictorDozal)
+You can put several operating systems on one server machine
+* [VMS and the Cloud (Bookmark This)](https://www.youtube.com/watch?v=l0DfHUWMjsU&ab_channel=DavidBecker)
+The cloud runs on virtualization, and they sell either by the machine or by the computing power you need per hour.
+* [AWS EC2](https://aws.amazon.com/ec2/?ec2-whats-new.sort-by=item.additionalFields.postDateTime&ec2-whats-new.sort-order=desc)
+This is a sales pitch :)
+* [EC2 For Humans](https://www.youtube.com/watch?v=lZMkgOMYYIg&ab_channel=Academind)
+
+* [Elastic Beanstalk](https://www.youtube.com/watch?v=SrwxAScdyT0&ab_channel=AmazonWebServices)

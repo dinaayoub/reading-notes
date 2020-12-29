@@ -22,6 +22,7 @@ This website will contain Dina's reading notes from the Code Fellows courses
 * [Read: Class 14 - Event Driven Architecture](401/class-14.md)
 * [Read: Trees](401/class-15).md
 * [Read: Class 16 - AWS: Cloud Servers](401/class-16.md)
+* [Read: Class 17 - AWS: S3 and Lambda](401/class-17.md)
 
 ## Code 301 Reading Notes
 

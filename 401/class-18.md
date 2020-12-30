@@ -15,8 +15,20 @@
 
 ## Preparation Materials
 
-[AWS API Gateway Overview](https://www.serverless.com/amazon-api-gateway)
-[AWS API Gateway](https://aws.amazon.com/api-gateway/)
-[AWS DynamoDB Guide](https://www.dynamodbguide.com/what-is-dynamo-db/)
+* [AWS API Gateway Overview](https://www.serverless.com/amazon-api-gateway)
+  * integrates with lambda, sns, amazon cognito.
+  * benefits:
+    * map http requests to specific functions in serverless app
+    * map websocket events to serverless functions
+    * use multiple microservices to serve the same top level api
+    save time with integrations such as authentication, developer portal, cloudtrail and cloudwatch
+  * drawbacks:
+    * added latency to API
+    * managed service so you can't tweak its performance parameters
+* [AWS API Gateway](https://aws.amazon.com/api-gateway/)
+  * a way to create serverless restful or web socket APIs
+* [AWS DynamoDB Guide](https://www.dynamodbguide.com/what-is-dynamo-db/)
+  * a no sql database
 [AWS DynamoDB](https://aws.amazon.com/dynamodb/)
-[Dynamoose](https://dynamoosejs.com/getting_started/Introduction)
+* [Dynamoose](https://dynamoosejs.com/getting_started/Introduction)
+  * like mongoose but for dynamo db

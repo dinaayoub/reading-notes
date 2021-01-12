@@ -2,7 +2,7 @@
 
 ## Review, Research, and Discussion
 
-1. Name 5 Javascript UI Frameworks (other than React): Angular, jquery, bootstrap, Vue
+1. Name 5 Javascript UI Frameworks (other than React): Angular, Angular.js, jquery, bootstrap, Vue
 2. What’s the difference between a framework and a library? A framework is a group of libraries we use to create our program within its structure, A library is a piece of code that we use as a tool to accomplish something.
 
 ## Vocabulary Terms

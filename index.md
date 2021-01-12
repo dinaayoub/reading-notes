@@ -23,6 +23,8 @@ This website will contain Dina's reading notes from the Code Fellows courses
 * [Read: Trees](401/class-15).md
 * [Read: Class 16 - AWS: Cloud Servers](401/class-16.md)
 * [Read: Class 17 - AWS: S3 and Lambda](401/class-17.md)
+* [Read: Class 18 - AWS: API, Dynamo and Lambda](401/class-18.md)
+* [Read: Class 26 - Component Based UI](401/class-26.md)
 
 ## Code 301 Reading Notes
 

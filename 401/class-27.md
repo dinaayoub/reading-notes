@@ -26,11 +26,64 @@
 ## Preparation Materials
 
 - [setState explained](https://css-tricks.com/understanding-react-setstate/)
+
+  - only legitimate way to update state after initial setup
+  - you can send a function to setState like this:
+
+    ```JSX
+    handleIncrement = () => {
+    this.setState((prevState) => ({ count: prevState.count + 1 }))
+    this.setState((prevState) => ({ count: prevState.count + 1 }))
+    this.setState((prevState) => ({ count: prevState.count + 1 }))
+    }
+    ```
+
+  - Pass a function when you want to update state multiple times
+  - Do not depend on this.state immediately after calling setState() and make use of the updater function instead, like this:
+
+    ```JSX
+      changeCount = () => {
+      this.setState((prevState) => {
+        return { count: prevState.count - 1}
+      })
+    }
+    ```
+
 - [handling events](https://facebook.github.io/react/docs/handling-events.html)
+
+  - React event handlers look a little different than regular html ones:
+
+    ```JSX
+      <button onclick="activateLasers()">
+      //becomes
+      <button onClick={activateLasers}>
+    ```
+
+  - You can pass in extra parameters like this (either one works):
+
+    ```JSX
+    <button onClick={(e) => this.deleteRow(id, e)}>Delete Row</button>
+    <button onClick={this.deleteRow.bind(this, id)}>Delete Row</button>
+    ```
+
 - [forms](https://facebook.github.io/react/docs/forms.html)
+
+  - forms in react are slightly different - you put the onsubmit on the form then you have access to all the components of the form.
+
+    ```JSX
+     <form onSubmit={this.handleSubmit}>
+        <label>
+          Name:
+          <input type="text" value={this.state.value} onChange={this.handleChange} />
+        </label>
+         <input type="submit" value="Submit" />
+      </form>
+    ```
+
 - [state and lifecycle](https://facebook.github.io/react/docs/state-and-lifecycle.html)
 - [components and props](https://reactjs.org/docs/components-and-props.html)
 - [React Testing Library](https://testing-library.com/docs/react-testing-library)
+  this seems to be a broken link. Maybe you meant this link? https://github.com/testing-library/jest-dom
 - [RTL Testing Example](https://thomlom.dev/beginner-guide-testing-react-apps/)
 
 ## Bookmark

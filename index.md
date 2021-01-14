@@ -25,6 +25,8 @@ This website will contain Dina's reading notes from the Code Fellows courses
 * [Read: Class 17 - AWS: S3 and Lambda](401/class-17.md)
 * [Read: Class 18 - AWS: API, Dynamo and Lambda](401/class-18.md)
 * [Read: Class 26 - Component Based UI](401/class-26.md)
+* [Read: Class 27 - Props and State](401/class-27.md)
+* [Read 28: Component Composition](401/class-28.md)
 
 ## Code 301 Reading Notes
 

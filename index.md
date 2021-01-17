@@ -28,6 +28,8 @@ This website will contain Dina's reading notes from the Code Fellows courses
 * [Read: Class 27 - Props and State](401/class-27.md)
 * [Read 28: Component Composition](401/class-28.md)
 * [Read 29: Routing](401/class-29.md)
+* [Read 30: Hash Tables](401/class-30.md)
+* [Read 31: Hooks API](401/class-31.md)
 
 ## Code 301 Reading Notes
 

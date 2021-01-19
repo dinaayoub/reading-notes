@@ -43,11 +43,11 @@ function MyComponent(props) {
 ## Preview
 
 1. Which 3 things had you heard about previously and now have better clarity on?
-hooks, and how  to use them
+built in state and effect hooks, and how  to use them
 2. Which 3 things are you hoping to learn more about in the upcoming lecture/demo?
 more of the built in hooks like use reducer
 3. What are you most excited about trying to implement or see how it works?
-the wrapping mentioned in question 2
+the wrapping mentioned in question 2, and "custom hooks" in general
 
 ## Preparation Materials
 

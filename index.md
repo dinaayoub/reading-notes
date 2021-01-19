@@ -30,6 +30,7 @@ This website will contain Dina's reading notes from the Code Fellows courses
 * [Read 29: Routing](401/class-29.md)
 * [Read 30: Hash Tables](401/class-30.md)
 * [Read 31: Hooks API](401/class-31.md)
+* [Read 32: Custom Hooks](401/class-32.md)
 
 ## Code 301 Reading Notes
 

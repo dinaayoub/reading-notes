@@ -6,17 +6,29 @@
 * Connected graph - all nodes are connected to at least one other node
 * Disconnected - some nodes aren't connected to other nodes.
 
+--------
+
 * Undirected Graph - all edges are undirected or bi-directional
 * Directed Graph / DiGraph - each edge has a direction
+
+--------
 
 * Acyclic: directed graph without any cycles, i.e can't end up at a node twice while traversing.
 * Cyclic: has cycles, where we can go over the same node multiple times.
 
+--------
+
 * sparse graph: Few connections
 * dense graph: Many connections
 
-* Adjacency Matrix - a 2 D array with all of the nodes on both axes, and a 0 or 1 to represent whether those nodes have an edge with the other node, like <img src="https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/AdjMatrix.PNG"/>
-* Adjacency List - Most common way to represent graphs - a collection of linked lists or array that lists all of the other vertices that are connected. This makes it easy to see if one node connects to another, like <img src="https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/AdjList.PNG">
+--------
+
+* Adjacency Matrix - a 2 D array with all of the nodes on both axes, and a 0 or 1 to represent whether those nodes have an edge with the other node, like 
+<img src="https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/AdjMatrix.PNG"/>
+* Adjacency List - Most common way to represent graphs - a collection of linked lists or array that lists all of the other vertices that are connected. This makes it easy to see if one node connects to another, like 
+<img src="https://codefellows.github.io/common_curriculum/data_structures_and_algorithms/Code_401/class-35/resources/assets/AdjList.PNG">
+
+--------
 
 * Weighted graphs - graphs with numbers assigned to the edges. 
   * To represent this in adjacency matrix, instead of 0 or 1, it would be 0 or the weight.

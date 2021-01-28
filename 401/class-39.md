@@ -1,4 +1,4 @@
-# Read 38: Redux - Additional Topics
+# Read 39: Redux - Additional Topics
 
 ## Review, Research, and Discussion
 
